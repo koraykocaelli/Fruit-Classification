@@ -1,0 +1,12 @@
+# Keras and TensorFlow
+tensorflow>=2.4.0
+keras>=2.4.0
+
+# Matplotlib
+matplotlib>=3.0.0
+
+# NumPy
+numpy>=1.18.0
+
+# PySide6
+PySide6>=6.0.0
